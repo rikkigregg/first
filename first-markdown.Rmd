@@ -2,7 +2,9 @@
 title: "Hello world"
 author: "RGregg"
 date: "2024-07-15"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r, eval=TRUE}
